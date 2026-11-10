@@ -1,6 +1,6 @@
 <div align="center">
 
-# 张志强 | Zhiqiang Zhang 👋
+# Hi there 👋
 
 **[中文版](#-中文版) | [English Version](#-english-version)**
 
@@ -10,11 +10,9 @@
 
 ## 🇨🇳 中文版
 
-### 🎓 个人简介
-* **硕士在读**：华南理工大学 交通运输规划与管理专业
-* **本科毕业**：上海海事大学 交通运输专业
-
-> 💡 *AI 的发展越来越快，运筹又该何去何从？一个苦逼研究生的 vibe coding, vibe writing 罢了，有点想 “赌”博。希望能和大家多多交流，互相学习！*
+### 关于
+* 记录运筹优化、低空物流与科研工具相关的开源实践与笔记。
+* 关注用自动化流水线把「找文献 → 精读 → 成文」串起来。
 
 ---
 
@@ -36,9 +34,8 @@
 
 ---
 
-### 📫 联系方式
-* **电子邮箱**：wenye9556@163.com
-* **GitHub**：[@wenye9556](https://github.com/wenye9556)
+### 联系
+* GitHub：[@wenye9556](https://github.com/wenye9556)
 
 <br/>
 
@@ -46,11 +43,9 @@
 
 ## 🌐 English Version
 
-### 🎓 About Me
-* **M.S. Student**: Transportation Planning & Management, South China University of Technology (SCUT)
-* **B.S.**: Transportation, Shanghai Maritime University (SMU)
-
-> 💡 *AI is advancing faster than ever—where does operations research go from here? Just a struggling grad student doing some vibe coding and vibe writing, kind of tempted to "gamble" on a Ph.D. Always open to exchanges and learning from each other!*
+### About
+* Notes and open-source experiments on operations research, low-altitude logistics and research tooling.
+* Interested in automating the literature discovery → reading → writing pipeline.
 
 ---
 
@@ -72,6 +67,5 @@
 
 ---
 
-### 📫 Contact
-* **Email**: wenye9556@163.com
-* **GitHub**: [@wenye9556](https://github.com/wenye9556)
+### Contact
+* GitHub: [@wenye9556](https://github.com/wenye9556)
